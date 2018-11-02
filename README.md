@@ -1,4 +1,4 @@
 # Week-7-Network-Security
-<iframe src= "https://imgur.com/a/jOyvlDo"> </iframe>
-<iframe src= "https://imgur.com/a/G7CFd2G"> </iframe>
-<iframe src= "https://imgur.com/a/qDfufKR"> </iframe>
+![](https://github.com/advaitk13/Week-7-Network-Security/blob/master/LargeFile.gif)
+![](https://github.com/advaitk13/Week-7-Network-Security/blob/master/XSSNumber2.gif)
+![](https://github.com/advaitk13/Week-7-Network-Security/blob/master/XSSNumber3.gif)
